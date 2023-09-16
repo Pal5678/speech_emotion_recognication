@@ -1,6 +1,6 @@
 streamlit
 pandas
-numpy==1.21.2
+numpy==1.19.2
 librosa==0.8.1
 matplotlib==3.4.3
 tensorflow==2.5.0
