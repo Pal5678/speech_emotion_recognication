@@ -4,3 +4,5 @@ numpy
 pandas
 numpy==1.21.2
 librosa==0.8.1
+matplotlib==3.4.3
+
